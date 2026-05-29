@@ -73,12 +73,17 @@ The application was previously deployed on Microsoft Azure for testing and publi
 
 ## Screenshots
 
-Add screenshots of:
+### Database Diagram
+Entity Relationship Diagram (ERD) of the Accounting Management System database, illustrating tables, attributes, and relationships that support the application's core functionality.
 
-* Swagger documentation
-* API endpoints
-* Database model
-* Azure deployment
+![Database Diagram](./assets/screenshots/Diagrama-DB-SistemaDeGestionContable.png)
+
+---
+
+### API Documentation - Swagger
+Interactive API documentation generated with Swagger, providing detailed information about available endpoints, request parameters, and response structures for the Accounting Management System.
+
+![Swagger Documentation](./assets/screenshots/Swagger-SistemaDeGestionContable.png)
 
 ---
 
